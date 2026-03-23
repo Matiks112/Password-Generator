@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorStrengthWeak" format="color" />
+    <attr name="colorStrengthMedium" format="color" />
+    <attr name="colorStrengthStrong" format="color" />
+    <attr name="colorStrengthVeryStrong" format="color" />
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Generator Haseł</string>
+    <string name="password_length_label">Długość Hasła: %1$d</string>
+    <string name="select_option">Wybierz opcję</string>
+    <string name="strength_label">Siła Hasła: %1$s</string>
+    <string name="strength_weak">Słabe</string>
+    <string name="strength_medium">Średnie</string>
+    <string name="strength_strong">Silne</string>
+    <string name="strength_very_strong">Bardzo Silne</string>
+    <string name="copied_to_clipboard">Skopiowano do schowka</string>
+    <string name="generated_password_label">Generator Haseł</string>
+    <string name="save_file">Zapisz do Pliku</string>
+    <string name="save_dialog_title">Zapisz Hasło</string>
+    <string name="save_dialog_message">Podaj nazwę pliku do zapisania:</string>
+    <string name="file_name_hint">Nazwa pliku</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Przerwij</string>
+    <string name="file_saved">Zapisz plik do Pobranych</string>
+    <string name="error_saving_file">Błąd podczas zapisywania pliku</string>
+    <string name="enter_file_name">Podaj nazwę pliku</string>
+    <string name="app_title">Generator Haseł</string>
+    <string name="copy_button_desc">Skopiuj</string>
+    <string name="regenerate_button_desc">Wygeneruj ponownie</string>
+    <string name="strength_indicator">Siła Hasła: Silne</string>
+    <string name="password_length_indicator">Długość Hasła: 12</string>
+    <string name="options_desc">Zawiera Znaki</string>
+    <string name="option_lowercase">Małe litery (a–z)</string>
+    <string name="option_number">Cyfry (0–9)</string>
+    <string name="option_symbol"><![CDATA[Symbole (!@#$%^&*)]]></string>
+    <string name="option_uppercase">Wielkie Litery (A–Z)</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="password_length_label">Password Length: %1$d</string>
+    <string name="select_option">Select an option</string>
+    <string name="strength_label">Strength: %1$s</string>
+    <string name="strength_na" translatable="false">N/A</string>
+    <string name="strength_weak">Weak</string>
+    <string name="strength_medium">Medium</string>
+    <string name="strength_strong">Strong</string>
+    <string name="strength_very_strong">Very Strong</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="generated_password_label">Generated Password</string>
+    <string name="save_file">Save to File</string>
+    <string name="save_dialog_title">Save Password</string>
+    <string name="save_dialog_message">Enter a name for the file:</string>
+    <string name="file_name_hint">filename</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="file_saved">File saved to Downloads</string>
+    <string name="error_saving_file">Error saving file</string>
+    <string name="enter_file_name">Please enter a file name</string>
+    <string name="app_title">Password Generator</string>
+    <string name="password_placeholder" translatable="false">P@ssw0rd123</string>
+    <string name="copy_button_desc">Copy</string>
+    <string name="regenerate_button_desc">Regenerate</string>
+    <string name="strength_indicator">Strength: Strong</string>
+    <string name="password_length_indicator">Password Length: 12</string>
+    <string name="options_desc">Include Characters</string>
+    <string name="option_uppercase">Uppercase (A–Z)</string>
+    <string name="option_lowercase">Lowercase (a–z)</string>
+    <string name="option_number">Numbers (0–9)</string>
+    <string name="option_symbol"><![CDATA[Symbols (!@#$%^&*)]]></string>
+</resources>

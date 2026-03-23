@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PasswordGenerator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Custom attributes for Strength (Optimized for Light to ensure contrast) -->
+        <item name="colorStrengthWeak">#D32F2F</item>       <!-- Red 700 -->
+        <item name="colorStrengthMedium">#E65100</item>     <!-- Orange 900 -->
+        <item name="colorStrengthStrong">#388E3C</item>     <!-- Green 700 (Contrast > 3.0) -->
+        <item name="colorStrengthVeryStrong">#1B5E20</item> <!-- Green 900 -->
+    </style>
+
+    <style name="Theme.PasswordGenerator" parent="Base.Theme.PasswordGenerator" />
+</resources>
